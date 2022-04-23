@@ -24,5 +24,8 @@ Here are some ideas to get you started:
 - 🌱 I am passionate about development and always learning new things.
 
 <!-- Statistics -->
-[![Twitter Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=Chakib-DAII&layout=compact&langs_count=10&theme=dracula)](https://github.com/Chakib-DAII)
-[![Gmail Badge](https://github-readme-stats.vercel.app/api?username=Chakib-DAII&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Chakib-DAII)
+<div>
+<a href="https://github.com/Chakib-DAII">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakib-DAII&layout=compact&langs_count=10&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chakib-DAII&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
