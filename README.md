@@ -65,7 +65,7 @@ Arabic/Tunisian programming language built on the JVM
 
 📫 Contact & Links
 
-- 📧 Email: <a href="mailto:chakiibdaii@gmail.com">**chakiibdaii@gmail.com**</a>
+- 📧 Email: <a href="mailto:chakiibdaii@daiitech.org">**chakiibdaii@daiitech.org**</a>
 - 💼 LinkedIn: https://www.linkedin.com/in/chakib-daii-baab0410b/
 - 🐙 GitHub: https://github.com/Chakib-DAII
 - 🌍 Location: Belgium
