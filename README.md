@@ -20,7 +20,7 @@ I focus on clean architecture, system design, and building tools that reduce com
 - 🏦 Enterprise systems (Finance / Customs microservices platforms)
 - 💳 FinTech & banking systems (large-scale distributed architecture)
 - 🔄 BPM engineer (Flowable, process automation, decision modeling)
-- 🌍 6+ years experience in full-stack & backend development
+- 🌍 9+ years experience in full-stack & backend development
 - 🚀 Open-source contributor and tool builder
 
 ---
